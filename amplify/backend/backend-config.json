@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "cdkamplify82b81ece": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
